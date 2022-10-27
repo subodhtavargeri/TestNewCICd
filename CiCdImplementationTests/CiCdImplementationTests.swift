@@ -12,7 +12,7 @@ class CiCdImplementationTests: XCTestCase {
 
     func test_XYZ() {
         
-        XCTAssertEqual(2, 3)
+        XCTAssertEqual(2, 4)
     }
 
 }
