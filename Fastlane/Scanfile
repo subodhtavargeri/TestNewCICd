@@ -1,5 +1,5 @@
-workspace "TicTacToe.xcodeproj/project.xcworkspace"
-scheme "TicTacToe"
+workspace "CiCdImplementation.xcodeproj/project.xcworkspace"
+scheme "CiCdImplementation"
 sdk "iphonesimulator"
 device "iPhone 11"
 code_coverage true
