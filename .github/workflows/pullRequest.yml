@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test:
+  testProject:
     runs-on: macos-11
     steps:
       - uses: actions/checkout@v2
